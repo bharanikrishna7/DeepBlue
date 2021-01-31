@@ -8,15 +8,21 @@ Initially the machine was named __"Deep Blue"__ [inspired by IBM chess computer 
 
 But now !!! The name change was warranted. This build has achieved it's final form _(or maybe second final)_. The name change to have __"Perfect"__
 prefix is homage to [Cell from DBZ](https://dragonball.fandom.com/wiki/Cell) and his changing forms :P 
-```
-CHANGELOG:
-----------
+
+## LEARNING EXPERIENCE [WHY IT WAS WORTHWHILE]
+Building this computer also helped me better understand the concepts which I was unable or not well equiped to understand during school and college. For example:
+* Fluid Mechanics                    - (used here for: Liquid cooling loop design & flow efficiency - why laminar flow is so important !!!!)
+* Thermodynamics                     - (used here for: Liquid cooling effictive heat transfer & effect of flow on heat transfer in an unstable control system)
+* Structure and Properties of Matter - (used here for: Choosing thermal compound - effect of material on conductivity & heat transfer. Also tube bending.)
+* Computer Science | Engineering     - (used here for: Understanding MacOS kernel and build macOS stable installer. Apart from usual stuff...)
+Overall it was a worthwhile learning experience. I could actually vizualize the concepts which I couldn't understand before which I found to be super cool !!!
+
+## CHANGELOG [DEEP-BLUE -> PERFECT DEEP-BLUE]
 * The kinks in the loop has been straightened [mostly cosmetic].
 * Achieved laminar flow in the liquid cooling loop (leads to more stable flow rates)
 * 3000 ROM Pump + Reservior combo is replaced with new Distro plate + 5000 RPM DDC pump.
 * Using nice black-white PSU cables [purely cosmetic].
 * Synchronized all the RGB lights to correctly stay on Perfect Blue color :P [purely cosmetic].
-```
 
 ## MONEY-SHOT
 ![Image](https://github.com/bharanikrishna7/DeepBlue/blob/master/Images/money_shot.png?raw=true)
@@ -92,8 +98,8 @@ The above 2 guides and googling should give enough information to understand how
 
 
 ## OTHER IMAGES
-SIDE PROFILE :
+__SIDE PROFILE__
 ![Side Profile](https://github.com/bharanikrishna7/DeepBlue/blob/master/Images/side_profile.png?raw=true)
 
-BOTTOM PROFILE
+__BOTTOM PROFILE__
 ![Bottom Profile](https://github.com/bharanikrishna7/DeepBlue/blob/master/Images/from_bottom.png?raw=true)
