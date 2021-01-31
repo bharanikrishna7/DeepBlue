@@ -20,7 +20,7 @@ Overall it was a worthwhile learning experience. I could actually vizualize the 
 ## CHANGELOG [DEEP-BLUE -> PERFECT DEEP-BLUE]
 * The kinks in the loop has been straightened [mostly cosmetic].
 * Achieved laminar flow in the liquid cooling loop (leads to more stable flow rates)
-* 3000 ROM Pump + Reservior combo is replaced with new Distro plate + 5000 RPM DDC pump.
+* 3000 RPM Pump + Reservior combo is replaced with new Distro plate + 5000 RPM DDC pump.
 * Using nice black-white PSU cables [purely cosmetic].
 * Synchronized all the RGB lights to correctly stay on Perfect Blue color :P [purely cosmetic].
 
